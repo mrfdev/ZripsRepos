@@ -55,7 +55,22 @@ Every proposed report identifies the repository, exact commit/version, environme
 
 Write as a helpful peer: neutral, specific, short, and easy to act on. Avoid generated bulk changes, speculative accusations, style-only rewrites, and demands. Check for an existing report or fix immediately before submission.
 
-## 6. Licensing
+## 6. Documentation accuracy and anti-slop gate
+
+Every README, guide, issue draft, pull-request description, and other public-facing proposal must receive a separate factual review after drafting and before approval. Fluent prose is not evidence, and AI-generated text is never accepted on confidence alone.
+
+- Trace each factual claim to the exact current source, configuration, manifest, history, test result, or authoritative project page that supports it.
+- Verify commands, arguments, permissions, defaults, placeholders, dependencies, supported versions, features, build steps, installation paths, downloads, credits, and support routes individually when they are mentioned.
+- Distinguish what was observed in public source, reproduced at runtime, stated by the maintainer, or inferred. Qualify the wording when evidence covers only one of those scopes.
+- Never assume that a public checkout, published binary, website, release, or development branch contains identical behavior or versions. Record or disclose relevant mismatches.
+- Do not claim that a build or test succeeds unless it was actually run against recorded inputs. Describe missing build tooling and unverified runtime behavior honestly.
+- Prefer durable links and dynamic badges over copied counts or versions that will drift. Date any unavoidable snapshot data.
+- Remove filler, guessed capabilities, invented examples, unsupported compatibility claims, and plausible-sounding details that cannot be backed up.
+- If a claim cannot be verified, omit it, mark it clearly as unverified, or request maintainer confirmation before proposing publication.
+
+The factual review must be visible in the local work record through source paths, commands, citations, or a concise evidence matrix. A draft does not advance to `approved` until this gate passes.
+
+## 7. Licensing
 
 Record the detected repository license, relevant file paths, inherited/fork history, and uncertainty. Do not infer permission merely because source is visible. License findings are informational until original history and authoritative license text are checked. Preserve notices and attribution in any proposed patch.
 

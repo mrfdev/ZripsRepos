@@ -26,6 +26,18 @@ Apply proportionally; a support-only issue tracker does not need a source audit.
 - [ ] Preserve declared legacy support; propose compatibility shims or bounded version profiles instead of silent breakage.
 - [ ] Keep blocking database, filesystem, compression, and network work off the server thread.
 
+## Documentation evidence gate
+
+- [ ] Perform a second factual pass after drafting; do not treat the drafting pass as verification.
+- [ ] Map every mentioned feature, command, argument, permission, default, placeholder, dependency, version, and build/install step to current evidence.
+- [ ] Check credits, downloads, support routes, and compatibility claims against authoritative project pages or history.
+- [ ] Distinguish public-source behavior, released-binary behavior, maintainer claims, runtime results, and inference.
+- [ ] Record source/binary/release mismatches and avoid implying equivalence without evidence.
+- [ ] State when a build or runtime test was not performed and why.
+- [ ] Replace volatile copied counts or versions with durable links, dynamic badges, or dated snapshot data.
+- [ ] Remove or qualify anything that is plausible but unsupported; AI-generated prose is not evidence.
+- [ ] Retain concise evidence paths, commands, citations, or a claim-to-source matrix in the local review record.
+
 ## Security and integrity
 
 - [ ] Review command permissions, trust boundaries, parsing, path handling, serialization, SQL, HTTP, update/download logic, and secret handling.
@@ -43,6 +55,7 @@ Apply proportionally; a support-only issue tracker does not need a source audit.
 
 ## Before proposing upstream contact
 
+- [ ] Confirm the documentation evidence gate passed after the final wording change.
 - [ ] Confirm against the latest upstream default branch and supported release.
 - [ ] Search open/closed issues and PRs for duplicates or maintainer decisions.
 - [ ] Minimize scope and include a practical fix or acceptance criteria.

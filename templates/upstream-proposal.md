@@ -16,6 +16,9 @@ State the affected version, observed behavior, impact, minimal reproduction, and
 
 ## Preflight
 
+- [ ] A separate claim-by-claim factual pass was completed after the final draft.
+- [ ] Features, commands, permissions, placeholders, dependencies, versions, build results, credits, and links are backed by current evidence where mentioned.
+- [ ] Public source, released binaries, maintainer claims, runtime results, and inference are not presented as interchangeable.
 - [ ] No sensitive exploit detail or private/proprietary material.
 - [ ] Evidence and links still resolve.
 - [ ] Scope is one coherent maintainer action.

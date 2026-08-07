@@ -15,3 +15,11 @@
 
 - The snapshot workflow applies only to this `mrfdev/ZripsRepos` review hub.
 - Continue to follow `POLICY.md`: never open, modify, or comment on a Zrips issue, pull request, branch, repository, or other upstream resource without Floris explicitly approving the exact external action.
+
+## Documentation factuality
+
+- Treat all public-facing prose as untrusted until it passes the documentation evidence gate in `POLICY.md` and `CHECKLIST.md`.
+- After drafting a README, guide, issue, or pull-request description, perform a separate claim-by-claim factual review against current source, configuration, manifests, history, test results, and authoritative project pages.
+- Never invent or infer features, commands, permissions, placeholders, dependencies, compatibility, build success, support routes, credits, or versions merely because they are plausible.
+- Clearly distinguish public-source facts, released-binary behavior, maintainer statements, runtime verification, and inference. Do not assume source and published artifacts match.
+- Remove, qualify, or label unverified claims before presenting a draft as ready. Keep concise evidence paths, commands, citations, or a claim-to-source matrix in the local work record.
