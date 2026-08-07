@@ -32,3 +32,5 @@ ZripsRepos/
 ## Status
 
 Initial workspace setup. No security conclusion, issue, pull request, or endorsement is implied by a repository being listed here.
+
+<sub>AI assistance: code analysis, review drafts, and cross-repository suggestions are reasoned with OpenAI Codex using GPT-5.6-sol. All findings remain subject to human verification and approval.</sub>
