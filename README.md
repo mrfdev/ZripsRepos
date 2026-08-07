@@ -1,6 +1,6 @@
 # ZripsRepos review hub
 
-**ZripsRepos 1.0.0 · Build 005 · 2026-08-07**
+**ZripsRepos 1.0.0 · Build 006 · 2026-08-07**
 
 An unofficial, independent workspace for careful review of public repositories maintained by [Zrips](https://github.com/Zrips/). The goal is to prepare concise, evidence-backed maintenance suggestions without flooding maintainers or publishing exploitable details.
 

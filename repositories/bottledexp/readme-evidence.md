@@ -1,10 +1,12 @@
 # BottledExp README evidence review
 
-- **Status:** passed for proposal
+- **Status:** submitted in [Zrips/BottledExp PR #69](https://github.com/Zrips/BottledExp/pull/69)
 - **Reviewed:** 2026-08-07
 - **Upstream repository:** `Zrips/BottledExp`
 - **Upstream commit:** `7205230745a68de1ef3897f5fe0a1f9d9d68fe0d`
 - **Proposal:** [`proposals/README.md`](proposals/README.md)
+- **Fork:** `mrfdev/Zrips-BottledExp`, branch `agent/add-readme`
+- **Submitted commit:** `3c909af4e3dee96715afe69f6eda3d429c80e508`
 
 ## Claim-to-source review
 
