@@ -1,5 +1,7 @@
 # ZripsRepos review hub
 
+**ZripsRepos 1.0.0 · Build 001 · 2026-08-07**
+
 An unofficial, independent workspace for careful review of public repositories maintained by [Zrips](https://github.com/Zrips/). The goal is to prepare concise, evidence-backed maintenance suggestions without flooding maintainers or publishing exploitable details.
 
 This repository is a review index, not a fork or redistribution of Zrips projects. Local upstream checkouts live under `upstreams/` and are intentionally ignored by Git. Each project keeps its own Git history and remote.
@@ -22,6 +24,8 @@ ZripsRepos/
 ├── POLICY.md                 public/private and upstream-action rules
 ├── CHECKLIST.md              reusable review checklist
 ├── INVENTORY.md              repository scope and activity tiers
+├── VERSION                    canonical version, build, date, and tag
+├── VERSIONING.md              snapshot and rollback workflow
 ├── knowledge/                reusable, verified cross-project lessons
 ├── repositories/<name>/      public-safe notes and per-project queue
 ├── templates/                finding and upstream-proposal templates
@@ -32,5 +36,7 @@ ZripsRepos/
 ## Status
 
 Initial workspace setup. No security conclusion, issue, pull request, or endorsement is implied by a repository being listed here.
+
+Every completed task that changes tracked hub content increments the build number and produces an immutable Git tag. See [VERSIONING.md](VERSIONING.md) for the rules and rollback options.
 
 <sub>AI assistance: code analysis, review drafts, and cross-repository suggestions are reasoned with OpenAI Codex using GPT-5.6-sol. All findings remain subject to human verification and approval.</sub>
