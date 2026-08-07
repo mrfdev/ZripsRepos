@@ -58,6 +58,7 @@ Apply proportionally; a support-only issue tracker does not need a source audit.
 - [ ] Confirm the documentation evidence gate passed after the final wording change.
 - [ ] Confirm against the latest upstream default branch and supported release.
 - [ ] Search open/closed issues and PRs for duplicates or maintainer decisions.
+- [ ] For a fork, explicitly target `mrfdev/Zrips-<UpstreamRepo>` and verify the returned namespace before adding a remote, pushing, or opening a PR.
 - [ ] Minimize scope and include a practical fix or acceptance criteria.
 - [ ] Remove secrets, personal data, proprietary material, and exploit-enabling detail.
 - [ ] Get Floris' explicit approval for the exact destination and text.

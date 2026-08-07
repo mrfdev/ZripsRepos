@@ -6,7 +6,7 @@ This hub is read-only toward Zrips repositories by default. Codex may inspect pu
 
 Codex must stop for explicit approval before any external write, including opening or commenting on an issue or pull request, pushing a branch or fork, contacting a maintainer, publishing a vulnerability, or changing content on zrips.net. Approval for one action does not authorize later actions.
 
-When an approved workflow requires a fork under `mrfdev`, use `mrfdev/Zrips-<UpstreamRepo>` and preserve the upstream repository name and casing (for example, `mrfdev/Zrips-BottledExp`). This naming rule does not grant approval to create or modify the fork.
+When an approved workflow requires a fork under `mrfdev`, use `mrfdev/Zrips-<UpstreamRepo>` and preserve the upstream repository name and casing (for example, `mrfdev/Zrips-BottledExp`). Fork creation must explicitly set both the `mrfdev` organization and the `Zrips-<UpstreamRepo>` fork name; never rely on the authenticated account's default namespace. Verify the returned repository URL before adding a remote or pushing a branch. If an unexpected fork is created, stop and obtain explicit approval before deleting it. This naming rule does not grant approval to create or modify the fork.
 
 ## 2. Public repository boundary
 

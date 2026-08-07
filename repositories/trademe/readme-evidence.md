@@ -1,10 +1,12 @@
 # TradeMe README evidence review
 
-- **Status:** local proposal; not submitted upstream
+- **Status:** submitted in draft [Zrips/TradeMe PR #36](https://github.com/Zrips/TradeMe/pull/36)
 - **Reviewed:** 2026-08-07
 - **Upstream repository:** `Zrips/TradeMe`
 - **Upstream commit:** `1b1634ccf79c691829cc3b7f1cff1de202a0254c`
 - **Proposal:** [`proposals/README.md`](proposals/README.md)
+- **Fork:** `mrfdev/Zrips-TradeMe`, branch `agent/improve-readme`
+- **Submitted commit:** `a0b4e08c7db34d13691a487c096da9b7410fdffa`
 
 ## Claim-to-source review
 
