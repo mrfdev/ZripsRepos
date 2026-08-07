@@ -15,6 +15,8 @@
 
 - The snapshot workflow applies only to this `mrfdev/ZripsRepos` review hub.
 - Continue to follow `POLICY.md`: never open, modify, or comment on a Zrips issue, pull request, branch, repository, or other upstream resource without Floris explicitly approving the exact external action.
+- When Floris explicitly approves creating a fork of a Zrips repository under `mrfdev`, name it `mrfdev/Zrips-<UpstreamRepo>`, preserving the upstream repository name and casing; for example, `mrfdev/Zrips-BottledExp`.
+- The fork naming convention does not itself authorize creating a fork, pushing a branch, or opening a pull request.
 
 ## Documentation factuality
 
