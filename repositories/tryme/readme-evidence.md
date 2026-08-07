@@ -1,10 +1,12 @@
 # TryMe README evidence review
 
-- **Status:** local proposal; not submitted upstream
+- **Status:** submitted in draft [Zrips/TryMe PR #38](https://github.com/Zrips/TryMe/pull/38)
 - **Reviewed:** 2026-08-07
 - **Upstream repository:** `Zrips/TryMe`
 - **Upstream commit:** `8f74135a1552e5b1faf61147c07726f8eb63b957`
 - **Proposal:** [`proposals/README.md`](proposals/README.md)
+- **Fork:** `mrfdev/Zrips-TryMe`, branch `agent/improve-readme`
+- **Submitted commit:** `f78d799857195e8941fd604fff6c0a0e6cdca6d8`
 
 ## Factual review
 
