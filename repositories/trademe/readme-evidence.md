@@ -25,7 +25,7 @@
 - It does not state a fixed supported-version range. That range has changed over time and belongs on the maintained resource page.
 - It describes the repository as *currently serving* as an issue tracker rather than claiming that Zrips formally designated its permanent role.
 - It states that no source, download, or build files are present instead of implying that this paid plugin is open source or buildable from GitHub.
-- Security-sensitive reports are directed to private official support before public reproduction details, consistent with the repository hub's disclosure policy.
+- Security-sensitive reports are directed to Zrips privately by Spigot PM or Discord DM before public reproduction details, consistent with the repository hub's disclosure policy.
 
 ## Known limitations
 

@@ -26,7 +26,7 @@ Search the [existing issues](https://github.com/Zrips/TradeMe/issues) before ope
 - relevant errors or logs inside a code block; and
 - integration names and versions when the problem involves another plugin.
 
-Remove passwords, tokens, addresses, and other private information from logs. For a possible duplication exploit or another security-sensitive problem, contact the maintainer privately through the official support channels before publishing reproduction details.
+Remove passwords, tokens, addresses, and other private information from logs. For a possible duplication exploit or another security-sensitive problem, contact Zrips privately (PM on Spigot, or DM on Discord) before publishing reproduction details.
 
 ## Links
 
