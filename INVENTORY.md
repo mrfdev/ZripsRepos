@@ -12,6 +12,6 @@ Snapshot date: 2026-08-07. Activity is based on the latest public `pushed_at` va
 | [BottledExp](https://github.com/Zrips/BottledExp) | Plugin source; no root README observed | 2025-01-03 | None | Watch | Yes |
 | [TryMe](https://github.com/Zrips/TryMe) | Issue and feature-request tracker for proprietary TryMe | 2023-02-22 | None | Dormant | Yes |
 | [MobFarmManager](https://github.com/Zrips/MobFarmManager) | Empty repository | 2020-05-24 | None | Dormant | Yes |
-| [TradeMe](https://github.com/Zrips/TradeMe) | Minimal repository containing a one-line README | 2020-02-03 | None | Dormant | Yes |
+| [TradeMe](https://github.com/Zrips/TradeMe) | Source-free public issue and feature-request tracker with a one-line README | 2020-02-03 | None | Dormant | Yes |
 
 All nine public repositories are cloned locally as independent, ignored Git repositories under `upstreams/`. The activity tier controls review priority, not local availability. Reassess roles and tiers whenever upstream state changes.

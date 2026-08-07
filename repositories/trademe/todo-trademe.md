@@ -1,4 +1,5 @@
 # TradeMe review queue
 
-- [ ] `P2` Replace the one-line README with clear repository purpose, source-availability status, support links, issue guidance, requirements, and contribution expectations.
-- [ ] `P3` Confirm whether the repository is intended as an issue tracker, placeholder, or future source location.
+- [x] `P2` Draft and fact-check a concise README covering repository purpose, source availability, official links, CMILib, installation, and useful issue-reporting guidance.
+- [ ] `P2` After Floris approves the proposal, prepare a focused README-only fork and upstream pull request.
+- [x] `P3` Confirmed that the source-free repository currently functions as TradeMe's public issue and feature-request tracker; its permanent intended role remains unstated.
