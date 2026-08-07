@@ -1,0 +1,18 @@
+# Independent upstream Git repositories are local evidence, never hub content.
+/upstreams/
+
+# Private or embargoed security work must never be committed.
+/private/
+/artifacts/
+/tmp/
+
+# Common generated and editor files.
+.DS_Store
+.idea/
+.vscode/
+*.log
+*.jar
+*.class
+target/
+build/
+.gradle/
